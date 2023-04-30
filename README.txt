@@ -8,6 +8,6 @@ Estrutura do projeto - Padrão Flyweight Delivery em Java, logo abaixo.
 
 Casos de Teste:
 
-1) Cria um cliente com entrega rápida.
-2) Cria um cliente com entrega normal.
-3) Cria outro cliente com entrega rápida.
+1) Testa um cliente com entrega rápida.
+2) Testa um cliente com entrega normal.
+3) Testa outro cliente com entrega rápida.
